@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+pillow
+streamlit-option-menu
+base64
+io
